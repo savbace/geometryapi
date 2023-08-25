@@ -1,4 +1,6 @@
-﻿namespace Geometry.Core;
+﻿using System.Numerics;
+
+namespace Geometry.Core;
 
 public class Rectangle
 {
